@@ -5,3 +5,35 @@
   --storyColor-s: 55%;
   --storyColor-l: 71%;
 }
+
+/** Navigation2 Bar **/
+.navigation {
+  display: grid;
+  position: sticky;
+  bottom: 0px;
+  background: var(--content-bg-color);
+  justify-content: center;
+  margin-bottom: 0px;
+  font-size: 1.2rem;
+  z-index: 9999;
+}
+
+.navigation img {
+  margin-bottom: 0px;
+  width: 50px;
+}
+.navigation a {
+  border-bottom: none;
+}
+.navigation i {
+  margin: 0px;
+  padding: 10px;
+}
+.navigation .top-arrow {
+  right: 0px;
+  position: absolute;
+}
+.navigation .home-button {
+  left: 0px;
+  position: absolute;
+}
