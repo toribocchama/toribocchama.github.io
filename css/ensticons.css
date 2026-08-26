@@ -1,4 +1,24 @@
 [character="Leo"][Tsukasa] {
   --name: "Leo & Tsukasa";
-  --icon:url("https://file.garden/anzKao5YqgjJO99m/enst%20tls/knights%20vs%20trickstar/leokasa%20icon.png")
+  --icon:url("https://file.garden/anzKao5YqgjJO99m/enst%20tls/ensticons/combo/icon_leotsuka.png")
+}
+
+[character="Makoto"][Tsukasa] {
+  --name: "Makoto & Tsukasa";
+  --icon:url("https://file.garden/anzKao5YqgjJO99m/enst%20tls/ensticons/combo/icon_makotsuka.png")
+}
+
+[character="Ritsu"][Mao] {
+  --name: "Mao & Ritsu";
+  --icon:url("https://file.garden/anzKao5YqgjJO99m/enst%20tls/ensticons/combo/icon_ritsumao.png")
+}
+
+[character="Subaru"][Hokuto] {
+  --name: "Subaru & Hokuto";
+  --icon:url("https://file.garden/anzKao5YqgjJO99m/enst%20tls/ensticons/combo/icon_subahoku.png")
+}
+
+[character="Tsukasa"][Arashi] {
+  --name: "Tsukasa & Arashi";
+  --icon:url("https://file.garden/anzKao5YqgjJO99m/enst%20tls/ensticons/combo/icon_tsukanaru.png")
 }
